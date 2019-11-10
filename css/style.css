@@ -171,4 +171,15 @@ header{
     color: white;
     margin-bottom: 100px;
 }
+
+/* media */
+
+@media (max-width: 768px){
+    .section-1{
+        width: 740px;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+}
+
 /* end section-1 */
